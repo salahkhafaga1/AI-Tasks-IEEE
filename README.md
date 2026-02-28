@@ -3,7 +3,7 @@
 Welcome to my personal workspace for the IEEE Artificial Intelligence Committee! This repository is dedicated to tracking my progress, organizing machine learning assignments, and documenting data science projects.
 
 ## 👨‍💻 About
-Hi, I'm **Hossam El-Din**! I'm passionate about developing smart AI solutions, exploring data preprocessing, and building projects that make a real impact—whether it's participating in hackathons or creating practical applications.
+Hi, I'm **Salah Khafaga**! I'm passionate about developing smart AI solutions, exploring data preprocessing, and building projects that make a real impact—whether it's participating in hackathons or creating practical applications.
 
 ## 📂 Repository Structure
 
